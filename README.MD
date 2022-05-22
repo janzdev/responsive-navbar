@@ -1,7 +1,7 @@
 # Responsive Navbar
 
-lorem1drhgdhdhd
+Learn how to create a responsive top navigation menu with CSS and JavaScript. Responsive Navigation Bar.
 
 ## tools to be needed
 
-fajabfuafeuaufbiafabfkafbeufbfbaeif 3eubuf uafbaufb
+Any Text Editor
